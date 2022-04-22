@@ -1,20 +1,16 @@
 const config = {
-    title: "Inform your content with qualitative data",
-    question: "There are several tools you can use to understand which content your audience is actively engaging with.",
+    title: "The impact of customer insifgt on your digital marketing plan",
+    question: "Data Points on customer insight can significantly impact the way we segment our target audience, set our objectives, elaborate our content strategy and choose the right tactics to generate the highest levels of engagement.",
     image_on: true,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "Select the tool name below to see how:",
+    selection_title: "Type of qualitative and quantitative data points you can consider:",
     selection_options: [
-        "Buzzsumo",
-        "Mentionlytics",
-        "Audiense",
-        "Google Trends"
+        "Qualitative",
+        "Quantitative"
     ],
     answer_options: [
-        "See how content is shared and engaged with.",
-        "Useful for monitoring your own content for measurement and benchmarking.",
-        "A great Twitter tool to monitor trends, build and segment lists of key users, monitor content performance and more.",
-        "Can show you how many people are talking about a topic. You can cross reference it with Reddit, Quora or a social media platform to validate the data and make a call on how impactful that content is."
+        "Comments, engagements, demographic data and setiment analysis",
+        "Likes/shares/views, CTR/OR, leads, new subscribers to our services and website traffic."
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
     answer_font_colour: "white",
