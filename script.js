@@ -1,5 +1,5 @@
 const config = {
-    title: "The impact of customer insifgt on your digital marketing plan",
+    title: "The impact of customer insight on your digital marketing plan",
     question: "Data Points on customer insight can significantly impact the way we segment our target audience, set our objectives, elaborate our content strategy and choose the right tactics to generate the highest levels of engagement.",
     image_on: true,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
